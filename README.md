@@ -1,2 +1,2 @@
 # SQL
-Welcome! This repository features my data analytics projects using SQL and Tableau, focused on exploring real-world data, cleaning it, and turning insights into clear visualizations.
+Welcome! 👋 This repository contains my data analytics projects built with SQL and Tableau. It documents my journey into data analytics, where I work with real-world datasets to clean, analyze, and visualize data. You’ll find SQL queries, datasets, and Tableau dashboards that showcase how I turn raw data into meaningful insights.

@@ -153,8 +153,4 @@ SELECT
     END AS healthcare_status,
     COUNT(*) AS company_count
 FROM fortune_companies
-GROUP BY
-    CASE
-        WHEN healthcare_benefits = 1 THEN 'Offers Healthcare'
-        ELSE 'No Healthcare'
-    END;
+GROUP BY healthcare_benefits;
